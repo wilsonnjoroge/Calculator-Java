@@ -30,7 +30,7 @@ public class Calculator2 implements ActionListener {
         textField.setEditable(false);
         textField.setBounds(50, 25, 300, 50);
         textField.setVisible(true);
-        textField.setBackground(Color.LIGHT_GRAY);
+        textField.setBackground(Color.GRAY);
 
         addButton2 = new JButton("+");
         subButton2 = new JButton("-");
